@@ -120,7 +120,7 @@ audio, video{
 /* Q13: All the elements have margin of 0 from the top, bottom, left, and right */
 table{
     width:800px;
-    display:inline-block;
+    display:block;
     margin:10px auto;
     border-collapse: collapse;
 }

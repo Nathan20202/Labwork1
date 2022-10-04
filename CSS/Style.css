@@ -3,7 +3,7 @@
     margin:0;
 }
 
-/* Q1, Q3.a.b.c.d: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q1, Q3.a.b.c.d */
 .container{
     display:block;
     width:950px;
@@ -12,7 +12,7 @@
     background-color: #ffd7a0;
 }
 
-/* Q2.a: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q2.a */
 body{
     /*color:#F0FFFF;*/
     display:flex;
@@ -21,20 +21,20 @@ body{
     justify-content: center;
 }
 
-/* Q2.b.c.d: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q2.b.c.d */
 html{
     background-image: url("../assets/images/dark-woods/dark-wood2.jpg");
     font-family: 'Gill Sans MT', 'Gill sans', calibri, 'Trebuchet MS', sans-serif ;
     margin:0;
 }
 
-/* Q4: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q4 */
 .content{
    line-height: 1.4em;
     padding:10px;
 }
 
-/* Q5, 6, 7: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q5, 6, 7 */
 header{
     background-color: #acead6;
     font-color:normal;
@@ -61,7 +61,7 @@ footer{
     font-color:normal;
 }
 
-/* Q8: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q8 */
 .first:link, .second:link, .third:link, .fourth:link{
     color: #00ffc4;
 }
@@ -78,12 +78,12 @@ footer{
     color: #00f7ff;
 }
 
-/* Q9: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q9 */
 a{
     text-decoration: none;
 }
 
-/* Q10: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q10 */
 h1, h2, h3{
     margin:10px;
     text-transform:uppercase;
@@ -101,7 +101,7 @@ p{
     color:	#F0F8FF;
 }
 
-/* Q11: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q11 */
 .img-centre{
     display:block;
     margin:5px auto;
@@ -109,7 +109,7 @@ p{
     width: 50%;
 }
 
-/* Q12: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q12 */
 audio, video{
     display:block;
     justify-content: center;
@@ -117,7 +117,7 @@ audio, video{
     width: 50%;
 }
 
-/* Q13: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q13 */
 table{
     width:800px;
     display:block;
@@ -125,14 +125,14 @@ table{
     border-collapse: collapse;
 }
 
-/* Q14: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q14 */
 td, th{
     border:2px;
     padding:2px 5px;
     background-color: #acead6;
 }
 
-/* Q15: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q15 */
 table th{
     text-transform:uppercase;
     background-color: #F0F8FF;
@@ -145,26 +145,26 @@ tfoot td{
     color: #ff0090;
 }
 
-/* Q16: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q16 */
 dt{
     font-weight: bold;
 }
 
-/* Q17: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q17 */
 footer{
     font-size: 80%;
     text-align: center;
     padding:1px 0;
 }
 
-/* Q18: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q18 */
 iframe{
     margin:10px auto;
     display:block;
 
 }
 
-/* Q19: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q19 */
 fieldset{
     width:500px;
     margin:20px auto;
@@ -172,7 +172,7 @@ fieldset{
     border:2px;
     background-color: #acead6;
 }
-/* Q20: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q20 */
 legend{
     font-style: italic;
     margin:0 10px;
@@ -181,7 +181,7 @@ legend{
     background-color: #ffd7a0;
 }
 
-/* Q21: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q21 */
 input[type="submit"]{
     border:2px;
     padding:5px;
@@ -190,5 +190,5 @@ input[type="submit"]{
     text-transform:uppercase;
 }
 
-/* Q22: All the elements have margin of 0 from the top, bottom, left, and right */
+/* Q22 */
 

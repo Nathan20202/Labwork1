@@ -120,7 +120,6 @@ audio, video{
 /* Q13 */
 table{
     width:800px;
-    display:block;
     margin:10px auto;
     border-collapse: collapse;
 }
